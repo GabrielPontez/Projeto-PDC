@@ -41,3 +41,4 @@ O sistema permite registrar despesas, gerar relatórios por categoria, por mês 
 ```bash
 git clone https://github.com/GabrielPontez/Projeto-PDC
 cd nome_do_repositorio
+python main.py
